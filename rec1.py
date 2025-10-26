@@ -97,7 +97,7 @@ if "page" not in st.session_state:
 if st.session_state.page == "welcome":
     st.markdown("<h1 class='glow'>👑 مرحبًا بك في معرض العطور الفاخرة 👑</h1>", unsafe_allow_html=True)
     st.markdown("<h3>✨ استمتع بتجربة فريدة لاختيار عطرك المثالي ✨</h3>", unsafe_allow_html=True)
-    st.image("D:\\dhifaf\\icon.jpg", width=220)
+    st.image("icon.jpg", width=220)
     if st.button("ابدأ التجربة 💎"):
         st.session_state.page = "selection"
         st.rerun()
@@ -225,4 +225,5 @@ elif st.session_state.page == "selection":
                     st.markdown("</div>", unsafe_allow_html=True)
 
             st.markdown("<p style='text-align:center; color:#bbb;'>✨ تم إعداد هذه التوصيات خصيصًا لتناسب ذوقك الفريد ✨</p>", unsafe_allow_html=True)
+
 
