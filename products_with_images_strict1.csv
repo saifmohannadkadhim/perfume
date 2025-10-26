@@ -1,0 +1,43 @@
+id,product_name,brand_name,Woody,Fruity,Floral,Oriental,Citrus,Sweet,Smoky,Amber,Fresh,Musk,Leathery
+1, Allure Homme Sport EDT 100 ml,Chanel,1,0,0,1,1,0,0,0,1,0,0
+2, Allure Homme Sport Extreme 100 ml,Chanel,1,0,0,1,1,0,0,1,1,0,1
+3, Allure Sensuelle EDP 100 ml,Chanel,1,1,1,1,0,1,0,1,0,1,0
+4, Bleu de Chanel EDP 100 ml,Chanel,1,0,0,1,1,0,1,1,1,0,1
+5, Bleu de Chanel EDT 100 ml,Chanel,1,0,0,1,1,0,0,1,1,0,1
+6, Bleu de Chanel Parfum 100 ml ,Chanel,1,0,0,1,1,0,1,1,1,0,1
+8, Chance Eau Fraiche EDT 100 ml,Chanel,0,0,1,0,1,0,0,0,1,1,0
+9, Chance Eau Tendre EDT 100 ml ,Chanel,0,1,1,0,1,1,0,0,1,1,0
+10, Chance EDP 100 ml,Chanel,0,1,1,1,1,1,0,1,1,1,0
+11, Coco Mademoiselle EDP 100 ml ,Chanel,0,1,1,1,1,1,0,1,1,1,0
+12, Coco Noir EDP 100 ml ,Chanel,1,0,1,1,0,0,0,1,0,1,0
+24, Egoiste EDT 100 ml,Chanel,1,0,0,1,0,0,1,1,0,0,1
+25, Egoiste Platinum EDT 100 ml,Chanel,1,0,0,1,1,0,0,0,1,0,1
+75, Gabrielle Chanel EDP 100 ml,Chanel,0,1,1,1,0,0,0,1,1,1,0
+146, Pour Monsieur EDT 100 ml ,Chanel,1,0,0,0,1,0,0,0,1,0,0
+14, Dior Addict 100 ml,Dior,0,1,1,1,0,1,0,1,0,1,0
+15, Dior Homme Eau for Men EDT 100 ml,Dior,1,0,1,0,1,0,0,0,1,1,1
+16, Dior Homme Intense 100 ml,Dior,1,0,1,1,0,0,0,1,0,1,1
+17, Dior Homme Parfum 75 ml ,Dior,1,0,0,1,0,0,1,1,0,1,1
+18, Dior Homme Sport 100 ml ,Dior,1,0,0,1,1,0,0,0,1,0,1
+19, Diorissimo EDT 100 ml,Dior,0,1,1,0,1,0,0,0,1,1,0
+20, Dune Pour Homme EDT 100 ml,Dior,1,0,0,0,1,0,0,0,1,0,1
+23, Eau Sauvage Parfum 100 ml,Dior,1,0,0,1,1,0,0,1,1,0,1
+26, Fahrenheit EDT 100 ml,Dior,1,0,0,1,0,0,1,1,0,0,1
+76, Homme Cologne 2013 125 ml,Dior,1,0,0,0,1,0,0,0,1,0,0
+77, Hypnotic Poison EDP 100 ml,Dior,0,1,1,1,0,1,0,1,0,1,0
+80, Miss Dior Blooming Bouquet 100ml,Dior,0,1,1,1,1,1,0,0,1,1,0
+81, Miss Dior EDP 100 ml ,Dior,0,1,1,1,0,1,0,0,1,1,0
+82, Miss Dior Rose N Roses 100 ml,Dior,0,1,1,0,1,1,0,0,1,1,0
+145, Poison Girl EDP 100 ml,Dior,0,1,1,1,0,1,0,1,0,1,0
+147, Sauvage EDT 100 ml,Dior,1,0,0,1,1,0,0,0,1,0,1
+148, Sauvage Elixir 60 ml,Dior,1,0,0,1,1,0,1,1,0,0,1
+7, Bright Crystal EDT 100 ml,Versace,0,1,1,1,1,1,0,0,1,1,0
+13, Crystal Noir EDT 100 ml,Versace,0,0,1,1,0,1,0,1,0,1,0
+21, Dylan Blue EDT 100 ml,Versace,1,0,0,1,1,0,0,1,1,0,1
+22, Dylan Turquoise EDT 100 ml,Versace,0,1,1,0,1,0,0,0,1,1,0
+149, Vanitas EDP 100 ml,Versace,0,0,1,1,0,0,0,1,0,1,0
+150, Versace Eros EDT 100 ml,Versace,1,0,0,1,1,1,0,1,1,0,1
+151, Versace Eros Flame EDP 100 ml,Versace,1,0,0,1,1,1,0,1,1,0,1
+152, Versace Pour Homme EDT 100 ml,Versace,1,0,0,0,1,0,0,0,1,0,1
+153, Versense EDT 100 ml,Versace,1,1,1,0,1,0,0,0,1,1,0
+154, Yellow Diamond EDT 100 ml,Versace,0,1,1,0,1,0,0,0,1,1,0
