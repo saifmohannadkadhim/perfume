@@ -66,7 +66,7 @@ img:hover {
 
 # 🖼️ تحميل الصور
 BASE_DIR = pathlib.Path(__file__).parent.resolve()
-IMAGES_DIR = BASE_DIR / "Perfume_Images"
+IMAGES_DIR = BASE_DIR / "Perfume_Image"
 
 def get_image_path(row):
     brand = str(row["brand_name"]).strip()
@@ -81,7 +81,7 @@ def get_image_path(row):
     return None
 
 # 📊 تحميل البيانات
-df = pd.read_csv(BASE_DIR / "products_with_images_strict.csv")
+df = pd.read_csv(BASE_DIR / "products_with_images_strict1.csv")
 df.columns = df.columns.str.strip().str.replace('\ufeff', '')
 if "description" not in df.columns:
     df["description"] = "عطر فاخر يتميز بتوليفة متوازنة من المكونات العطرية."
@@ -225,3 +225,4 @@ elif st.session_state.page == "selection":
                     st.markdown("</div>", unsafe_allow_html=True)
 
             st.markdown("<p style='text-align:center; color:#bbb;'>✨ تم إعداد هذه التوصيات خصيصًا لتناسب ذوقك الفريد ✨</p>", unsafe_allow_html=True)
+
